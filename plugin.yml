@@ -1,0 +1,9 @@
+name: FrostMineFarm
+author: FrostyRaptor995
+main: FrostyRaptor995\MineFarm\Main
+api: 3.0.0
+version: 1.0.0
+
+commands: 
+text:
+description: "MADE BY FrostyRaptor995! Enjoy"
